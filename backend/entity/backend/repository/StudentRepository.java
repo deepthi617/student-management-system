@@ -1,0 +1,4 @@
+package com.sms.repository;
+
+public interface StudentRepository {
+}
